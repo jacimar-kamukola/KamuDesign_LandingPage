@@ -7,4 +7,4 @@ Uma Landing Page moderna desenvolvida para a empresa KamuDesigns, com foco em ap
 - HTML5
 - CSS3
 
-![Screenshot da landing page](captura_de_ecra_.png)
+![Screenshot da landing page](Pagina.PNG)
