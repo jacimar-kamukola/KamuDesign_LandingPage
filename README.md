@@ -1,3 +1,3 @@
-Esta uma página web desenvolvi para uma empresa de design "KamuDesigns". 
+# KamuDesign Landing Page
 
-É uma LandingPage que eles pediram para aproximar mais um pouco das pessoas.
+Uma Landing Page moderna desenvolvida para a empresa KamuDesigns, com foco em apresentar serviços, atrair clientes e melhorar a presença online.
